@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">New</string>
+    <string name="title_section2">Records</string>
+    <string name="title_section3">Section 3</string>
+
+    <!-- main -->
+    <string name="button1">add</string>
+    <string name="button2">gallery</string>
+    <string name="sbutton1">list</string>
+    <string name="hintTitle">title</string>
+    <string name="hintContents">contents</string>
+    <!-- activity_main -->
+
+
+    <!-- text -->
+    <string name="okbutton">OK</string>
+    <string name="deletebutton">delete</string>
+    <string name="editTitle">title</string>
+    <string name="editContents">contents</string>
+    <string name="textview">TextView</string>
+    <!-- text -->
+    <string name="title_activity_sub_text">SubTextActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
